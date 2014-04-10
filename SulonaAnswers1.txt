@@ -1,0 +1,13 @@
+1. ls -atr
+
+2. head -25 filename
+   
+   head -25 filename | tail -10
+
+3. man python
+
+4. emacs filename (has to be .txt)
+   edit file and save
+   git init
+   git add filename 
+   git commit -a-m "message"
